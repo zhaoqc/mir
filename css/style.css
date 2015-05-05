@@ -1,0 +1,154 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url(../images/bg.jpg);
+	background-repeat:repeat-x;
+	background-position:top center;
+	text-align:center;
+}
+ul li {
+	list-style-type:none
+}
+img{ border:0px;}
+.title {
+	height:115px;
+}
+.menu {
+	text-align:left;
+}
+
+.menu ul li {
+	float:left;
+	margin-left:30px;
+}
+.ctleft {
+	float:left;
+}
+.ctnr{
+	margin-top:15px;
+	margin-left:40px;
+	background-image:url(../images/content.jpg);
+	width:657px;
+	height:251px;
+	overflow:hidden;
+}
+.nrtitle{
+	font-size:12px;
+	color:#ffffff;
+	text-align:left;
+	line-height:25px;
+	padding-left:30px;
+	margin-top:8px;
+}
+.nrcontent{
+	margin-left:100px;
+}
+.xqkf{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:10px;
+	font-size:14px;
+	font-weight:bold;
+	color:#454545;
+}
+.kfsj{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:1px;
+	font-size:12px;
+	color:#910401;
+}
+.yxjj{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:5px;
+	font-size:12px;
+	color:#454545;
+}
+.fgjj{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:3px;
+	font-size:12px;
+	color:#454545;
+}
+.gcjl{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:3px;
+	font-size:12px;
+	color:#454545;
+}
+.ybbl{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:3px;
+	font-size:12px;
+	color:#454545;
+}
+.czhd{
+	text-align:left;
+	font-size:12px;
+	line-height:25px;
+	height:25px;
+	margin-top:3px;
+	font-size:12px;
+	color:#454545;
+}
+.ctkf{
+	margin-top:10px;
+	margin-left:40px;
+	background-image:url(../images/kf.jpg);
+	width:657px;
+	height:44px;
+}
+.kfnr{
+	margin-left:45px;
+	line-height:48px;
+	height:44px;
+	overflow:hidden;
+	font-size:12px;
+	text-align:left;
+	color:#d0d1d1;
+}
+.kfnr span{
+	color:#ffff99;
+}
+.ctright {
+	float:left;
+}
+.dlq1{
+	width:220px;
+	height:94px;
+	margin-left:15px;
+	margin-top:15px;
+	overflow:hidden;
+}
+.dlq2{
+	width:220px;
+	height:95px;
+	margin-left:15px;
+	margin-top:20px;
+	overflow:hidden;
+}
+.cz{
+	width:220px;
+	height:95px;
+	margin-left:15px;
+	margin-top:20px;
+	overflow:hidden;
+}
